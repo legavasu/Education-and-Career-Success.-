@@ -42,7 +42,7 @@ Soft_Skills_Score = Soft skills rating (1-10)
 
 Networking_Score = Score based on professional networking and connections (1-10)
 
-## 4. 4. Career Outcomes
+## 4. Career Outcomes
 
 Job_Offers = Number of job offers received after graduation (0-5)
 
